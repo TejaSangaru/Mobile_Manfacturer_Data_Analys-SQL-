@@ -1,2 +1,2 @@
 # Mobile_Manfacturer_Data_Analysis
-EDA
+Exploratory Data Analysis (EDA)
